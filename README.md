@@ -13,7 +13,7 @@ https://github.com/Subhankar-Das03/RedStore
 
 📂 Project Structure
 Directory structure:
-└── subhankar-das03-redstore/
+└── subhankar-das03-redstore/ <br>
     ├── account.html
     ├── cart.html
     ├── index.html
